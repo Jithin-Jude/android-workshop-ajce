@@ -1,0 +1,38 @@
+[
+  {
+    "name":"Bill Gates",
+    "message":"Welcome to Microsoft",
+    "time":"10:00 AM",
+    "imgUrl":"https://amp.businessinsider.com/images/5c420c0a17c2c5620a282ed3-750-563.jpg"
+  },
+  {
+    "name":"Jeff Bezos",
+    "message":"Welcome to Amazon",
+    "time":"09:00 AM",
+    "imgUrl":"https://amp.businessinsider.com/images/5c0a8dcbd5000c1793675674-750-562.jpg"
+  },
+  {
+    "name":"Larry Page",
+    "message":"Welcome to Alphabet",
+    "time":"11:00 AM",
+    "imgUrl":"https://timedotcom.files.wordpress.com/2016/06/gettyimages-495426754.jpg"
+  },
+  {
+    "name":"Mark Zuckerberg",
+    "message":"Welcome to Facebook",
+    "time":"12:30 PM",
+    "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/1/14/Mark_Zuckerberg_F8_2018_Keynote_%28cropped_2%29.jpg"
+  },
+  {
+    "name":"Elon Musk",
+    "message":"Welcome to SpaceX",
+    "time":"11:00 AM",
+    "imgUrl":"https://www.biography.com/.image/t_share/MTE1ODA0OTcxOTUyMDE0ODYx/elon-musk-20837159-1-402.png"
+  },
+  {
+    "name":"Steve Jobs",
+    "message":"Welcome to Apple",
+    "time":"10:30 AM",
+    "imgUrl":"https://wallpapercave.com/wp/solVdHy.jpg"
+  }
+]
