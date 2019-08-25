@@ -39,3 +39,9 @@ Using Models for ease
 Create whatsapp dummy listview as demo
 Populating data from Internet
 Adding Permission and http
+
+Workshope resuorces links:
+-
+[WhatsApp UI Clone with Login repo](https://github.com/jisjoe/WhatsappClone-ECEWorkshop)
+
+[API](https://api.myjson.com/bins/jkc1v)
